@@ -19,8 +19,8 @@
 ## [3. Component Lifecycle](#)
 - [React's component lifecycle:](#)
   - Mounting, updating, and unmounting
-- Using `useEffect` for side effects](#)
-- Cleanup functions in `useEffect`
+- [Using `useEffect` for side effects](#)
+- [Cleanup functions in `useEffect`](#)
 
 ## 4. Event Handling
 - Handling user events (e.g., `onClick`, `onChange`)
@@ -122,5 +122,6 @@
 - `react-testing-library` for testing
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
 
