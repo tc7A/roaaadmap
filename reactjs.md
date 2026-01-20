@@ -1,14 +1,14 @@
 # React.js Topics for MERN Stack
 
-## 1. React Basics
-- What is React and its component-based architecture
-- Setting up a React project using:
-  - `create-react-app` (basic)
-  - `Vite` or `Next.js` (optional advanced tools)
-- Understanding JSX syntax
-- React components:
-  - Functional components
-  - Class components (optional)
+## [1. React Basics](#)
+- [What is React and its component-based architecture](#)
+- [Setting up a React project using:](#)
+  - [`create-react-app` (basic)](#)
+  - [`Vite` or `Next.js` (optional advanced tools)](#)
+- [Understanding JSX syntax](#)
+- [React components:](#)
+  - [Functional components](#)
+  - [Class components (optional)](#)
 
 ## 2. State and Props
 - Understanding and managing state with `useState`
@@ -16,10 +16,10 @@
 - Prop drilling and its limitations
 - Default props and prop types (`PropTypes`)
 
-## 3. Component Lifecycle
-- React's component lifecycle:
+## [3. Component Lifecycle](#)
+- [React's component lifecycle:](#)
   - Mounting, updating, and unmounting
-- Using `useEffect` for side effects
+- Using `useEffect` for side effects](#)
 - Cleanup functions in `useEffect`
 
 ## 4. Event Handling
@@ -122,4 +122,5 @@
 - `react-testing-library` for testing
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
