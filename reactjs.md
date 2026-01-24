@@ -38,14 +38,6 @@
 - Dynamic routing and route parameters
 - Protected routes and authentication checks
 
-## 7. State Management
-- Prop drilling and lifting state up
-- Context API for global state management
-- Third-party state management libraries (e.g., Redux, Zustand, Jotai)
-- Redux basics:
-  - Actions, reducers, and the store
-  - Using `react-redux` with hooks (`useSelector`, `useDispatch`)
-
 ## [8. React Hooks](#)
 - [Common hooks:](#)
   - [`useState`, `useEffect`, `useContext`](#)
@@ -120,6 +112,7 @@
 - `react-testing-library` for testing
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
 
 
