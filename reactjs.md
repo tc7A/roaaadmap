@@ -11,7 +11,6 @@
   - [Class components (optional)](#)
 
 ## [2. State and Props](#)
-- Passing data between components using props
 - Prop drilling and its limitations
 - Default props and prop types (`PropTypes`)
 
@@ -121,6 +120,7 @@
 - `react-testing-library` for testing
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
 
 
