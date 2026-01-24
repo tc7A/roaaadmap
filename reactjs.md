@@ -74,7 +74,6 @@
 - Code-splitting and lazy loading using `React.lazy` and `Suspense`
 
 ## 13. Testing React Applications
-- Writing unit tests with `Jest`
 - Testing components with `React Testing Library`
 - Mocking API calls and user interactions
 - End-to-end testing with tools like Cypress
@@ -85,33 +84,17 @@
 - Storing tokens securely (e.g., `localStorage`, `httpOnly` cookies)
 - Protecting routes and components (e.g., with `<PrivateRoute>`)
 
-## 15. Real-time Updates
-- Integrating with WebSocket libraries (e.g., `socket.io-client`)
-- Using state management for real-time UI updates
-
 ## 16. Building and Deploying React Apps
 - Building production-ready React apps (`npm run build`)
 - Hosting on platforms like Vercel, Netlify, or AWS
 - Integrating the React frontend with an Express backend
 - Configuring environment variables in React
 
-## 17. Advanced Topics (Optional)
-- Server-Side Rendering (SSR) with Next.js
-- Static Site Generation (SSG)
-- Internationalization (i18n) with libraries like `react-i18next`
-- React animations with libraries like `Framer Motion` or `React Spring`
-- Working with GraphQL (e.g., Apollo Client)
-
 ## Tools and Libraries to Explore
-- `react-router-dom` for routing
-- `axios` or `fetch` for HTTP requests
-- `redux` or `context` for state management
-- `react-query` or `swr` for data fetching
-- `styled-components` or `tailwindcss` for styling
-- `socket.io-client` for real-time updates
 - `react-testing-library` for testing
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
 
 
