@@ -10,15 +10,14 @@
   - [Functional components](#)
   - [Class components (optional)](#)
 
-## 2. State and Props
-- Understanding and managing state with `useState`
+## [2. State and Props](#)
 - Passing data between components using props
 - Prop drilling and its limitations
 - Default props and prop types (`PropTypes`)
 
 ## [3. Component Lifecycle](#)
 - [React's component lifecycle:](#)
-  - Mounting, updating, and unmounting
+  - [Mounting, updating, and unmounting](#)
 - [Using `useEffect` for side effects](#)
 - [Cleanup functions in `useEffect`](#)
 
@@ -122,6 +121,7 @@
 - `react-testing-library` for testing
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
 
 
