@@ -10,10 +10,6 @@
   - [Functional components](#)
   - [Class components (optional)](#)
 
-## [2. State and Props](#)
-- Prop drilling and its limitations
-- Default props and prop types (`PropTypes`)
-
 ## [3. Component Lifecycle](#)
 - [React's component lifecycle:](#)
   - [Mounting, updating, and unmounting](#)
@@ -94,6 +90,7 @@
 - `react-testing-library` for testing
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
 
 
