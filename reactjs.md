@@ -10,31 +10,24 @@
   - [Functional components](#)
   - [Class components (optional)](#)
 
-## [3. Component Lifecycle](#)
+## [2. Component Lifecycle](#)
 - [React's component lifecycle:](#)
   - [Mounting, updating, and unmounting](#)
 - [Using `useEffect` for side effects](#)
 - [Cleanup functions in `useEffect`](#)
 
-## 4. Event Handling
+## 3. Event Handling
 - Handling user events (e.g., `onClick`, `onChange`)
 - Passing arguments to event handlers
 - Synthetic events in React
 
-## 5. Forms and Input Handling
+## 4. Forms and Input Handling
 - Controlled vs. uncontrolled components
 - Managing form state with `useState`
 - Handling form submissions
 - Validation and error handling
 
-## 6. React Router (Client-side Routing)
-- Installing and setting up `react-router-dom`
-- Configuring routes with `<Routes>` and `<Route>`
-- Navigating between pages using `<Link>` and `useNavigate`
-- Dynamic routing and route parameters
-- Protected routes and authentication checks
-
-## [8. React Hooks](#)
+## [5. React Hooks](#)
 - [Common hooks:](#)
   - [`useState`, `useEffect`, `useContext`](#)
 - [Advanced hooks:](#)
@@ -42,39 +35,31 @@
   - [`useRef` for DOM manipulation and persisting values](#)
 - [Creating custom hooks for reusable logic](#)
 
-## 9. Fetching Data from APIs
-- Fetching data using:
-  - `fetch` or `axios`
-  - React Query or SWR (for advanced use cases)
-- Handling loading states and errors
-- Using `useEffect` for API calls
-- Integrating with the backend (Node.js + Express APIs)
-
-## 10. Styling in React
+## 6. Styling in React
 - Inline styles and CSS classes
 - CSS Modules
 - Styled-components and Emotion
 - Using utility-first CSS frameworks like Tailwind CSS
 - Understanding `className` vs `style`
 
-## 11. Error Handling
+## 7. Error Handling
 - Handling component errors with error boundaries
 - Using `try-catch` for asynchronous operations
 - Displaying user-friendly error messages
 
-## 12. Performance Optimization
+## 8. Performance Optimization
 - Avoiding unnecessary re-renders
 - Memoizing components with `React.memo`
 - Optimizing expensive computations with `useMemo`
 - Optimizing event handlers with `useCallback`
 - Code-splitting and lazy loading using `React.lazy` and `Suspense`
 
-## 13. Testing React Applications
+## 9. Testing React Applications
 - Testing components with `React Testing Library`
 - Mocking API calls and user interactions
 - End-to-end testing with tools like Cypress
 
-## [16. Building and Deploying React Apps](#)
+## [10. Building and Deploying React Apps](#)
 - [Building production-ready React apps (`npm run build`)](#)
 - [Hosting on platforms like Vercel, Netlify, or AWS](#)
 
@@ -83,12 +68,10 @@
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
 
-
-
-
-
-
-
-
-
-
+## 9. Fetching Data from APIs
+- Fetching data using:
+  - `fetch` or `axios`
+  - React Query or SWR (for advanced use cases)
+- Handling loading states and errors
+- Using `useEffect` for API calls
+- Integrating with the backend (Node.js + Express APIs)
