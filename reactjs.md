@@ -74,12 +74,6 @@
 - Mocking API calls and user interactions
 - End-to-end testing with tools like Cypress
 
-## 14. Authentication and Authorization
-- Managing user authentication state
-- Using JWT for token-based authentication
-- Storing tokens securely (e.g., `localStorage`, `httpOnly` cookies)
-- Protecting routes and components (e.g., with `<PrivateRoute>`)
-
 ## 16. Building and Deploying React Apps
 - Building production-ready React apps (`npm run build`)
 - Hosting on platforms like Vercel, Netlify, or AWS
@@ -90,6 +84,7 @@
 - `react-testing-library` for testing
 - React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
+
 
 
 
