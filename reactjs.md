@@ -9,8 +9,8 @@
 - [React components:](#)
   - [Functional components](#)
   - [Class components (optional)](#)
-- Handling component errors with error boundaries
-- Synthetic events in React
+- [Handling component errors with error boundaries](#)
+- [Synthetic events in React](#)
 
 ## [2. Component Lifecycle](#)
 - [React's component lifecycle:](#)
@@ -61,4 +61,5 @@
 - Handling loading states and errors
 - Using `useEffect` for API calls
 - Integrating with the backend (Node.js + Express APIs)
+
 
