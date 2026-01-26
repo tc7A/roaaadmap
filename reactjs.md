@@ -9,6 +9,8 @@
 - [React components:](#)
   - [Functional components](#)
   - [Class components (optional)](#)
+- Handling component errors with error boundaries
+- Synthetic events in React
 
 ## [2. Component Lifecycle](#)
 - [React's component lifecycle:](#)
@@ -16,18 +18,7 @@
 - [Using `useEffect` for side effects](#)
 - [Cleanup functions in `useEffect`](#)
 
-## 3. Event Handling
-- Handling user events (e.g., `onClick`, `onChange`)
-- Passing arguments to event handlers
-- Synthetic events in React
-
-## 4. Forms and Input Handling
-- Controlled vs. uncontrolled components
-- Managing form state with `useState`
-- Handling form submissions
-- Validation and error handling
-
-## [5. React Hooks](#)
+## [3. React Hooks](#)
 - [Common hooks:](#)
   - [`useState`, `useEffect`, `useContext`](#)
 - [Advanced hooks:](#)
@@ -35,31 +26,26 @@
   - [`useRef` for DOM manipulation and persisting values](#)
 - [Creating custom hooks for reusable logic](#)
 
-## 6. Styling in React
+## 4. Styling in React
 - Inline styles and CSS classes
 - CSS Modules
 - Styled-components and Emotion
 - Using utility-first CSS frameworks like Tailwind CSS
 - Understanding `className` vs `style`
 
-## 7. Error Handling
-- Handling component errors with error boundaries
-- Using `try-catch` for asynchronous operations
-- Displaying user-friendly error messages
-
-## 8. Performance Optimization
+## 5. Performance Optimization
 - Avoiding unnecessary re-renders
 - Memoizing components with `React.memo`
 - Optimizing expensive computations with `useMemo`
 - Optimizing event handlers with `useCallback`
 - Code-splitting and lazy loading using `React.lazy` and `Suspense`
 
-## 9. Testing React Applications
+## 6. Testing React Applications
 - Testing components with `React Testing Library`
 - Mocking API calls and user interactions
 - End-to-end testing with tools like Cypress
 
-## [10. Building and Deploying React Apps](#)
+## [7. Building and Deploying React Apps](#)
 - [Building production-ready React apps (`npm run build`)](#)
 - [Hosting on platforms like Vercel, Netlify, or AWS](#)
 
@@ -75,3 +61,4 @@
 - Handling loading states and errors
 - Using `useEffect` for API calls
 - Integrating with the backend (Node.js + Express APIs)
+
