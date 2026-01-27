@@ -26,13 +26,14 @@
   - [`useRef` for DOM manipulation and persisting values](#)
 - [Creating custom hooks for reusable logic](#)
 
-## 4. Performance Optimization
-- Avoiding unnecessary re-renders
-- Memoizing components with `React.memo`
-- Optimizing expensive computations with `useMemo`
-- Optimizing event handlers with `useCallback`
-- Code-splitting and lazy loading using `React.lazy` and `Suspense`
+## [4. Performance Optimization](#)
+- [Avoiding unnecessary re-renders](#)
+- [Memoizing components with `React.memo`](#)
+- [Optimizing expensive computations with `useMemo`](#)
+- [Optimizing event handlers with `useCallback`](#)
+- [Code-splitting and lazy loading using `React.lazy` and `Suspense`](#)
 
 ## [5. Building and Deploying React Apps](#)
 - [Building production-ready React apps (`npm run build`)](#)
 - [Hosting on platforms like Vercel, Netlify, or AWS](#)
+
