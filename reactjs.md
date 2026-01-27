@@ -33,16 +33,6 @@
 - Optimizing event handlers with `useCallback`
 - Code-splitting and lazy loading using `React.lazy` and `Suspense`
 
-## 5. Testing React Applications
-- Testing components with `React Testing Library`
-- Mocking API calls and user interactions
-- End-to-end testing with tools like Cypress
-
-## [6. Building and Deploying React Apps](#)
+## [5. Building and Deploying React Apps](#)
 - [Building production-ready React apps (`npm run build`)](#)
 - [Hosting on platforms like Vercel, Netlify, or AWS](#)
-
-## Tools and Libraries to Explore
-- `react-testing-library` for testing
-- React Component Without and With Webpack, Babel
-- [Awesome React Components](https://github.com/brillout/awesome-react-components)
