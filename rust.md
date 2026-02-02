@@ -1,9 +1,9 @@
 # Rust Learning Roadmap – Topics You Must Learn
 
 ## 1. Rust Basics
-- Installing Rust (rustup, cargo)
-- Rust toolchain & editions
-- Basic syntax
+- [Installing Rust (rustup, cargo)](#)
+- [Rust toolchain & editions](#)
+- [Basic syntax](#)
 - Variables & mutability
 - Data types (scalar & compound)
 - Functions
