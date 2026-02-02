@@ -4,8 +4,8 @@
 - [Installing Rust (rustup, cargo)](#)
 - [Rust toolchain & editions](#)
 - [Basic syntax](#)
-- Variables & mutability
-- Data types (scalar & compound)
+- [Variables & mutability](#)
+- [Data types (scalar & compound)](#)
 - Functions
 - Comments
 - Control flow (if, match, loops)
