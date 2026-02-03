@@ -13,10 +13,10 @@
 ## [2. Ownership & Memory Safety (Core of Rust)](#)
 - [Ownership rules](#)
 - [Borrowing (immutable & mutable)](#)
-- References
+- [References](#)
 - [Lifetimes (basic → advanced)](#)
 - [Stack vs Heap](#)
-- Copy vs Move semantics
+- [Copy vs Move semantics](#)
 
 ## 3. Common Data Structures
 - Strings & string slices
