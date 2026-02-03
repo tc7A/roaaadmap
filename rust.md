@@ -10,12 +10,12 @@
 - Comments
 - Control flow (if, match, loops)
 
-## 2. Ownership & Memory Safety (Core of Rust)
-- Ownership rules
-- Borrowing (immutable & mutable)
+## [2. Ownership & Memory Safety (Core of Rust)](#)
+- [Ownership rules](#)
+- [Borrowing (immutable & mutable)](#)
 - References
-- Lifetimes (basic → advanced)
-- Stack vs Heap
+- [Lifetimes (basic → advanced)](#)
+- [Stack vs Heap](#)
 - Copy vs Move semantics
 
 ## 3. Common Data Structures
