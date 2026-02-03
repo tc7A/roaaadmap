@@ -6,9 +6,9 @@
 - [Basic syntax](#)
 - [Variables & mutability](#)
 - [Data types (scalar & compound)](#)
-- Functions
-- Comments
-- Control flow (if, match, loops)
+- [Functions](#)
+- [Comments](#)
+- [Control flow (if, match, loops)](#)
 
 ## [2. Ownership & Memory Safety (Core of Rust)](#)
 - [Ownership rules](#)
