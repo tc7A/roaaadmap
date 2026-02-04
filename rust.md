@@ -39,10 +39,10 @@
 ## [5. Modules & Project Structure](#)
 - [Modules (`mod`)](#)
 - [Crates (binary & library)](#)
-- `use` keyword
-- Visibility (`pub`)
-- Workspaces
-- Cargo.toml & dependency management
+- [`use` keyword](#)
+- [Visibility (`pub`)](#)
+- [Workspaces](#)
+- [Cargo.toml & dependency management](#)
 
 ## 6. Traits & Generics
 - Defining traits
