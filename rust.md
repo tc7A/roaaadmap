@@ -79,14 +79,14 @@
 - Atomic types
 - Async vs threads
 
-## 10. Async Rust
-- `async` / `await`
-- Futures
-- Async runtimes (Tokio, async-std)
-- Async I/O
-- Streams
-- Error handling in async
-- Cancellation & timeouts
+## [10. Async Rust](#)
+- [`async` / `await`](#)
+- [Futures](#)
+- [Async runtimes (Tokio, async-std)](#)
+- [Async I/O](#)
+- [Streams](#)
+- [Error handling in async](#)
+- [Cancellation & timeouts](#)
 
 ## 11. Macros
 - Declarative macros (`macro_rules!`)
