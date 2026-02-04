@@ -38,7 +38,7 @@
 
 ## [5. Modules & Project Structure](#)
 - [Modules (`mod`)](#)
-- Crates (binary & library)
+- [Crates (binary & library)](#)
 - `use` keyword
 - Visibility (`pub`)
 - Workspaces
@@ -131,11 +131,11 @@
 - CLI tools (`clap`)
 - Embedded basics (optional)
 
-## 17. Web & Application Development (Optional Path)
-- REST APIs (Actix, Axum, Rocket)
-- Web frameworks
-- Database access (Diesel, SQLx)
-- WebAssembly (WASM)
+## [17. Web & Application Development (Optional Path)](#)
+- [REST APIs (Actix, Axum, Rocket)](#)
+- [Web frameworks](#)
+- [Database access (Diesel, SQLx)](#)
+- [WebAssembly (WASM)](#)
 
 ## 18. Real-World Skills
 - Reading Rust compiler errors
