@@ -1,6 +1,6 @@
 # Rust Learning Roadmap – Topics You Must Learn
 
-## 1. Rust Basics
+## [1. Rust Basics](#)
 - [Installing Rust (rustup, cargo)](#)
 - [Rust toolchain & editions](#)
 - [Basic syntax](#)
@@ -28,16 +28,16 @@
 - [Enums](#)
 - [Pattern matching](#)
 
-## 4. Error Handling
-- `panic!`
-- `Result` & `Option`
-- `unwrap` vs `expect`
-- Error propagation (`?`)
-- Custom error types
-- `thiserror` & `anyhow` (ecosystem)
+## [4. Error Handling](#)
+- [`panic!`](#)
+- [`Result` & `Option`](#)
+- [`unwrap` vs `expect`](#)
+- [Error propagation (`?`)](#)
+- [Custom error types](#)
+- [`thiserror` & `anyhow` (ecosystem)](#)
 
-## 5. Modules & Project Structure
-- Modules (`mod`)
+## [5. Modules & Project Structure](#)
+- [Modules (`mod`)](#)
 - Crates (binary & library)
 - `use` keyword
 - Visibility (`pub`)
