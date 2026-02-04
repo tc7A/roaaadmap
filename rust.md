@@ -18,15 +18,15 @@
 - [Stack vs Heap](#)
 - [Copy vs Move semantics](#)
 
-## 3. Common Data Structures
-- Strings & string slices
-- Arrays
-- Vectors (`Vec`)
-- Tuples
-- HashMaps
-- Structs
-- Enums
-- Pattern matching
+## [3. Common Data Structures](#)
+- [Strings & string slices](#)
+- [Arrays](#)
+- [Vectors (`Vec`)](#)
+- [Tuples](#)
+- [HashMaps](#)
+- [Structs](#)
+- [Enums](#)
+- [Pattern matching](#)
 
 ## 4. Error Handling
 - `panic!`
